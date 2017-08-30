@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petersmu/biz-xinghe-search.git"
+    "url": "git+https://github.com/whkfzyx/biz-xinghe-search.git"
   },
   "keywords": [
     "search"
@@ -16,7 +16,7 @@
   "author": "liuxuan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/petersmu/biz-xinghe-search/issues"
+    "url": "https://github.com/whkfzyx/biz-xinghe-search/issues"
   },
-  "homepage": "https://github.com/petersmu/biz-xinghe-search#readme"
+  "homepage": "https://github.com/whkfzyx/biz-xinghe-search#readme"
 }
